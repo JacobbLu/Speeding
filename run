@@ -1,0 +1,4 @@
+#!/bin/sh
+
+export LD_LIBRARY_PATH=./DymLib
+./A3 Assets/mycar.lua
