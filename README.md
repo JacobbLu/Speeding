@@ -1,7 +1,6 @@
 # Speeding
-OpenGL Game
+Linux OpenGL Game
 
-This project support Linux environment.
 "make"
 to compile
 
